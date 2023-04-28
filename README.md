@@ -1,3 +1,5 @@
+#This fork will be modified to for small store usage. It will include pricing, area of store the part is located, backstock locating, and idealy a fixed ip drop down for multiple wled controllers
+
 # MIMOSA - short for "Mellow_Labs Inventory Management and Organization System Apparatus". Just like a refreshing mimosa, this system will make your life brighter and more organized!
 
 ## Videos
